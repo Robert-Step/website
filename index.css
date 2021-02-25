@@ -1,0 +1,19 @@
+a:hover {
+  color: red;
+}
+a {
+  text-decoration: none;
+
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.userInput {
+  margin: 40px red solid;
+}
